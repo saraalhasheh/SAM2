@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.pth
-*.pt
-checkpoints/
-data/
-pretrained/
